@@ -13,7 +13,7 @@ public class Ball : MonoBehaviour
 
     // state
     Vector2 paddleToBallVector;
-    bool hasStarted = false;
+    bool hasStarted;
 
     // Start is called before the first frame update
     void Start()
