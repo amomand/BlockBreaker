@@ -948,6 +948,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 286617538318613432, guid: a1d2ce6d011084d70bd7df883d68eb5c,
+        type: 3}
+      propertyPath: m_GravityScale
+      value: 0.2
+      objectReference: {fileID: 0}
     - target: {fileID: 286617538318613439, guid: a1d2ce6d011084d70bd7df883d68eb5c,
         type: 3}
       propertyPath: paddle1
@@ -1021,6 +1026,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6108005939247051629, guid: 06338ae6778eb49d5966e4ffb296c8ee,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.990566
+      objectReference: {fileID: 0}
+    - target: {fileID: 6108005939247051629, guid: 06338ae6778eb49d5966e4ffb296c8ee,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.6681648
+      objectReference: {fileID: 0}
+    - target: {fileID: 6108005939247051629, guid: 06338ae6778eb49d5966e4ffb296c8ee,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.6681648
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 06338ae6778eb49d5966e4ffb296c8ee, type: 3}
