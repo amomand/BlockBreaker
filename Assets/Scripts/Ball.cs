@@ -52,7 +52,6 @@ public class Ball : MonoBehaviour
         if (hasStarted)
         {
             AudioClip clip = ballSounds[UnityEngine.Random.Range(0, ballSounds.Length)];
-            //myAudioSource.PlayOneShot(clip);
             AudioSource.PlayClipAtPoint(clip, Camera.main.transform.position);
         }
     }
